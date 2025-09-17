@@ -1,6 +1,6 @@
-# 🚀 CareerForge
+# 🚀 Job-app
 
-CareerForge is a **dynamic job & internship aggregator** that fetches openings from multiple sources (LinkedIn, job boards, ATS systems) and displays them in a modern React frontend.
+This prototype is a **dynamic job & internship aggregator** that fetches openings from multiple sources (LinkedIn, job boards, ATS systems) and displays them in a modern React frontend.
 
 ---
 
